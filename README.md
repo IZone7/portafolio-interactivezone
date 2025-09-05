@@ -25,3 +25,4 @@ sudo pacman -Syu git
    ```bash
    git clone https://github.com/IZone7/portafolio-interactivezone.git
 
+git clone https://github.com/IZone7/javascript
