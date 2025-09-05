@@ -1,5 +1,3 @@
-**Portfolio Interactive Zone** <br>
-
 Bienvenido a este proyecto 🎉  <br>
 
 Este repositorio es **libre y abierto para la comunidad**. <br>
