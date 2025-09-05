@@ -27,4 +27,4 @@ git clone https://github.com/IZone7/<br>
   **Si quieres clonar el repositorio JavaScript (Proyecto1)** <br>
   
  ```bash
-git clone https://github.com/IZone7/javascript_proyecto1.git
+git clone https://github.com/IZone7/javascript_proyecto01.git
