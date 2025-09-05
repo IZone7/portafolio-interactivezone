@@ -10,9 +10,7 @@ Este proyecto fue creado para compartir conocimiento y herramientas útiles con 
 1. Clona el repositorio..
 
 Recuerda tener Git instalado <br>
-Para Windows,descárgalo de https://git-scm.com/download/win <br><br>
-
-
+Para Windows,descárgalo de https://git-scm.com/download/win <br>
 
 Para Linux, ejecutar desde la terminal <br>
 sudo apt update <br>
@@ -27,8 +25,6 @@ git clone https://github.com/IZone7/<br>
 +El nombre del repositorio<br>
  Ejemplo: <br>
   **Si quieres clonar el repositorio JavaScript (Proyecto1)** <br>
-
   
  ```bash
-
 git clone https://github.com/IZone7/javascript_proyecto1.git
